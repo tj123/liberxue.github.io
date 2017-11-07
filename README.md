@@ -55,3 +55,11 @@
  
 * [Twitter](https://twitter.com/liberxue).
 
+
+### 本地运行
+
+```bash
+  # 需安装 ruby 环境
+  bundle install
+  jekyll serve
+```
